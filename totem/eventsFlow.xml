@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flowItinerary>
+  <!-- Sidebar Meta Section -->
+  <meta>
+    <startTime>1:00</startTime>
+    <startPeriod>PM</startPeriod>
+    <endTime>5:00</endTime>
+    <endPeriod>PM</endPeriod>
+    <accessTag>Continuous Access</accessTag>
+    <groundTag>All-Day Ground</groundTag>
+    <bazaarTotem>市集</bazaarTotem>
+    <bazaarCategory>Promenade &amp; Bazaar</bazaarCategory>
+    <bazaarTitle>The Moonlit Bazaar</bazaarTitle>
+    <bazaarDescription>Artisan craft stalls, interactive cultural booths, tea tastings, and culinary kiosks open throughout all quadrangle corridors.</bazaarDescription>
+  </meta>
+
+  <!-- Timeline Events Progression -->
+  <events>
+    <event>
+      <time>01:00 PM</time>
+      <location>Main Pavilion // Seated</location>
+      <title>Legend of the Harvest Moon (Stage Opening)</title>
+      <description>Lion Dance blessing, classical chamber ensemble, and mythic folk heritage storytelling.</description>
+      <highlight>true</highlight>
+    </event>
+    <event>
+      <time>03:30 PM</time>
+      <location>The Promenade</location>
+      <title>Giant Brush Calligraphy Demonstration</title>
+      <description>Master calligraphers execute monumental festival couplets in live synchronized movement.</description>
+      <highlight>false</highlight>
+    </event>
+    <event>
+      <time>04:00 PM</time>
+      <location>Tea Pavilion</location>
+      <title>The Imperial Gongfu Tea Tasting</title>
+      <description>Ceremonial tea ritual and tasting of high-mountain rock oolongs with festive pastry pairings.</description>
+      <highlight>false</highlight>
+    </event>
+  </events>
+</flowItinerary>
