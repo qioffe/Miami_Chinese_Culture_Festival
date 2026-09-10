@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schedule>
+  <event>
+    <title>Awakening</title>
+    <zh>醒狮</zh>
+    <time>13:30</time>
+  </event>
+  <event>
+    <title>Tea &amp; Mooncake</title>
+    <zh>点茶尝月</zh>
+    <time>14:45</time>
+  </event>
+  <event>
+    <title>Guqin &amp; Riddles</title>
+    <zh>琴瑟灯谜</zh>
+    <time>16:00</time>
+  </event>
+</schedule>
